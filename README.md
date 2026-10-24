@@ -2,7 +2,6 @@
 
 [![React](https://img.shields.io/badge/React-19.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.3.5-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Oxlint](https://img.shields.io/badge/Oxlint-Clean%20(0%20errors)-22c55e?style=for-the-badge)](https://oxc.rs/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 An authentic, ultra-smooth, full-featured **Online Bus Ticket Booking Web Application** inspired by redBus. Built with React 19, modern Vanilla CSS, and a rich component architecture featuring realistic seat selection, real-time GPS tracking simulation, festive Diwali offers, and instant printable boarding passes.
